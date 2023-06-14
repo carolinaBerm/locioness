@@ -1,0 +1,139 @@
+
+.verofertas{
+    text-align: center;
+    background: white;
+    padding: 8px;
+
+}
+
+.fondoNavbar{
+    background-color: black;
+    padding-left: 15px; 
+    padding-right: 15px;
+       
+}
+.color-menu{
+    color:white;
+}
+
+
+.genero{
+    text-align: center;
+}
+.iconos{
+    text-align: right; 
+
+}
+.redes-sociales{
+    text-align: center;
+    padding: 5%;
+
+}
+.enviospais{
+    text-align: center;
+    background: #EEEEEE;
+    margin: 0;
+}
+.elige-fragancia{
+    padding: 40px;
+   
+}
+.compra-linea{
+    text-align: center;
+    padding: 20px;
+    background: #EEEEEE;
+}
+
+
+footer{
+    text-align: center;
+    background: #EEEEEE;
+    padding: 40px;
+
+}
+.site-footer {
+    min-height: 25px;
+    font-size: 0.6875rem;
+    width: 100%;
+    min-width: 240px;
+}
+.principal-footer__wrapper {
+    color: #221D1D;
+    
+    box-sizing: border-box;
+ 
+    font-family: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    color: inherit;
+}
+
+.principal-footer {
+    width: 100%;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    position: relative;
+    margin: 0 auto;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline: 0;
+    font-family: inherit;
+    font-weight: inherit;
+    font-style: inherit;
+    color: inherit;
+}
+
+.footer__collapse {
+    padding-left: 15px;
+    padding-right: 15px;
+    
+
+    width: 100%;
+    position: relative;
+    font-size: 0.8125rem;
+    font-weight: 300;
+}
+.footer__title {
+    margin-bottom: 1.1em;
+    padding-top: 0;
+    font-family: "bentonsans", sans-serif;
+    font-weight: 600;
+    font-size: inherit;
+    color: inherit;
+    position: relative;
+    padding-bottom: 0.5em;
+    line-height: 1.1;
+    display: block;
+    margin-block-start: 2.33em;
+    margin-block-end: 2.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+
+.footer__collapse--content {
+    display: none;
+}
+.footer__list>li>a {
+    color: #4E3844;
+}
+p {
+    margin-bottom: 1em;
+}
+.medios-depago{
+    width: 100%;
+    display: block;
+}
+.items{
+    line-height: 1.5;
+}
+
+.gratis{
+    text-align: center;
+}
+
